@@ -1,0 +1,15 @@
+@import "http://fonts.googleapis.com/css?family=Raleway";
+/*----------------------------------------------
+CSS Settings For HTML Div ExactCenter
+------------------------------------------------*/
+
+#dragme{
+position:absolute;
+display:none;
+height:300px;
+width:200px;
+background-color:#eee;
+border:1px solid black;
+border-radius:15px;
+text-align:center;
+}
